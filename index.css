@@ -1,0 +1,50 @@
+body{
+    font-family:arial;
+   background-color: white;
+}
+
+.row div img{
+    width: 3rem;
+
+}
+.nav-item a{
+    color: black;
+}
+.nav-item a:hover{
+    color: red;
+}
+/* header end */
+.content-row{
+    border: 2px solid black;
+    text-align: center;
+}
+.row-content{
+text-align: center;
+}
+#content-img{
+    width: 200px;    
+    
+}
+#content-img{
+    width: 270px;
+}
+.height-mobile-jpg{
+    height: 135px;
+  
+       
+   
+}
+
+
+.computer-jpg{
+    height: 136px;
+}
+.cs-jpg{
+    height: 136px;
+}
+.space-jpg{
+    height: 135px;
+}
+.camara-img{
+    height: 135px;
+}
